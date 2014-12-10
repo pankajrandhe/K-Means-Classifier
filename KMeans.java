@@ -1,3 +1,4 @@
+//java application for k-means unsupervised classification
 import java.awt.*;
 import java.awt.image.*;
 import java.io.*;
