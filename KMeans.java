@@ -1,4 +1,5 @@
 //java application for k-means unsupervised classification
+
 import java.awt.*;
 import java.awt.image.*;
 import java.io.*;
@@ -123,7 +124,7 @@ public class KMeans //implements ActionListener
 				       int[] blue = new int[]{0,0,255};
 				       int[] yellow = new int[]{255,255,0};
 				       int[] black = new int[]{0,0,0};
-					   int[] cyan = new int[]{0,255,255};
+				       int[] cyan = new int[]{0,255,255};
 					   int[] magenta = new int[]{255,0,255};
 					   int[] white = new int[]{255,255,255};
 					   int[] wood = new int[]{222,184,135};
