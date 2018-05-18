@@ -1,3 +1,2 @@
 this is line 1 of test2.txt
-modification done by branch 2
 
